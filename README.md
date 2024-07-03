@@ -20,3 +20,4 @@ hello
 hihi
 xin chao
 hi
+xi chào
