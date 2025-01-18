@@ -94,3 +94,4 @@ xcvbnm,uytgrfd
 dfghj
 ẻtyuioiuytr
 ăerthjkl
+ưertyuio
